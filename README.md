@@ -1,4 +1,4 @@
-# CI pipeline with automated Docker image delivery to Docker Hub
+# CI/CD pipeline with automated Docker image delivery to Docker Hub
 
 This is a simple Flask application deployed via **Docker** and automated with **GitHub Actions**.  
 The goal of this project is to demonstrate a basic **CI workflow** that builds, lints, and pushes a Docker image to Docker Hub.
